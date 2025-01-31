@@ -1,0 +1,49 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="36">
+            <item index="0" class="java.lang.String" itemvalue="cirq-rigetti" />
+            <item index="1" class="java.lang.String" itemvalue="klayout" />
+            <item index="2" class="java.lang.String" itemvalue="shapely" />
+            <item index="3" class="java.lang.String" itemvalue="qiskit-terra" />
+            <item index="4" class="java.lang.String" itemvalue="cirq-aqt" />
+            <item index="5" class="java.lang.String" itemvalue="cirq-ionq" />
+            <item index="6" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="7" class="java.lang.String" itemvalue="cffi" />
+            <item index="8" class="java.lang.String" itemvalue="retworkx" />
+            <item index="9" class="java.lang.String" itemvalue="qiskit" />
+            <item index="10" class="java.lang.String" itemvalue="cirq" />
+            <item index="11" class="java.lang.String" itemvalue="numpy" />
+            <item index="12" class="java.lang.String" itemvalue="cirq-core" />
+            <item index="13" class="java.lang.String" itemvalue="pyzmq" />
+            <item index="14" class="java.lang.String" itemvalue="ruamel.yaml.clib" />
+            <item index="15" class="java.lang.String" itemvalue="qutip" />
+            <item index="16" class="java.lang.String" itemvalue="rpcq" />
+            <item index="17" class="java.lang.String" itemvalue="cirq-google" />
+            <item index="18" class="java.lang.String" itemvalue="websockets" />
+            <item index="19" class="java.lang.String" itemvalue="qiskit-aer" />
+            <item index="20" class="java.lang.String" itemvalue="scipy" />
+            <item index="21" class="java.lang.String" itemvalue="kiwisolver" />
+            <item index="22" class="java.lang.String" itemvalue="orjson" />
+            <item index="23" class="java.lang.String" itemvalue="python-rapidjson" />
+            <item index="24" class="java.lang.String" itemvalue="tweedledum" />
+            <item index="25" class="java.lang.String" itemvalue="pyquil" />
+            <item index="26" class="java.lang.String" itemvalue="psutil" />
+            <item index="27" class="java.lang.String" itemvalue="cirq-pasqal" />
+            <item index="28" class="java.lang.String" itemvalue="pandas" />
+            <item index="29" class="java.lang.String" itemvalue="scikit-rf" />
+            <item index="30" class="java.lang.String" itemvalue="cirq-web" />
+            <item index="31" class="java.lang.String" itemvalue="retrying" />
+            <item index="32" class="java.lang.String" itemvalue="gdstk" />
+            <item index="33" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="34" class="java.lang.String" itemvalue="grpcio" />
+            <item index="35" class="java.lang.String" itemvalue="Pillow" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
